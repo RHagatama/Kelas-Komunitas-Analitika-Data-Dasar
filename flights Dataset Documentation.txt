@@ -20,10 +20,13 @@ Departure and arrival delays, in minutes. Negative times represent early departu
 
 carrier 
 Two letter carrier abbreviation. See airlines to get name. 
+
 flight 
 Flight number. 
+
 tailnum 
 Plane tail number. See planes for additional metadata. 
+
 origin, dest 
 Origin and destination. See airports for additional metadata.
 
